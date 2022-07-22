@@ -144,7 +144,7 @@ button:hover {
 
 
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+/* @media screen and (min-width: 768px) and (max-width: 1023px) {
 
     header{
         background-color: yellow;
@@ -171,7 +171,7 @@ button:hover {
         font-size: 1.4rem;
         background-color: greenyellow;
     }
-  }
+  } */
 
 @media screen and (min-width: 675px) and (max-width: 767px){
     
